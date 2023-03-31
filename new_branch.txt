@@ -1,2 +1,4 @@
 This is a new branch file
 This is a second line
+
+Let's make a conflict
