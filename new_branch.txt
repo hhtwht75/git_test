@@ -2,3 +2,8 @@ This is a new branch file
 This is a second line
 
 This is a new "branch_test" whose name is same with before
+
+commit1
+commit2
+
+commitment3
